@@ -11,9 +11,6 @@ This project involves the analysis of mockup Codecademy learners data using SQL 
 - Investigate different schools' preferences for Codecademy courses.
 - Determine courses preferred by learners from New York and Chicago.
 
-## Files
-- `codecademy_learners_data.sql`: SQL script containing queries to analyze the data.
-- `README.md`: Markdown file providing an overview of the project and instructions for usage.
 
 ## Instructions
 1. Clone this repository to your local machine.
@@ -21,11 +18,9 @@ This project involves the analysis of mockup Codecademy learners data using SQL 
 3. Execute the SQL script `codecademy_learners_data.sql`.
 4. Explore the results of the queries to gain insights into the Codecademy learners' data.
 
-## Usage
-The SQL queries provided in `codecademy_learners_data.sql` address various analysis requirements outlined in the project goals. Execute each query to obtain the desired insights into the mockup Codecademy learners data.
 
 ## Contributors
-- [Your Name]
+- [Shivaraj V Patil]
 
 ## Acknowledgements
 - This project was completed as part of [Codecademy](https://www.codecademy.com/)'s Data Science Career Path.
